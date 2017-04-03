@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetBase-master", "PlanetBase-master.csproj", "{E6F3C1E6-2FB9-9DB0-0644-5D41797A8BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetBase-master.Editor", "PlanetBase-master.Editor.csproj", "{537652F4-723D-E1A6-3CD4-9B1F0C59ED63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F3C1E6-2FB9-9DB0-0644-5D41797A8BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F3C1E6-2FB9-9DB0-0644-5D41797A8BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F3C1E6-2FB9-9DB0-0644-5D41797A8BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F3C1E6-2FB9-9DB0-0644-5D41797A8BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537652F4-723D-E1A6-3CD4-9B1F0C59ED63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537652F4-723D-E1A6-3CD4-9B1F0C59ED63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537652F4-723D-E1A6-3CD4-9B1F0C59ED63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537652F4-723D-E1A6-3CD4-9B1F0C59ED63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
